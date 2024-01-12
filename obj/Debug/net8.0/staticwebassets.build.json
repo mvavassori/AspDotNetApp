@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OqHtND5B8lMDDWboNB5XCl1DEro0bXNYsKzCAVrwnCQ=",
+  "Source": "AspDotNetApp",
+  "BasePath": "_content/AspDotNetApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

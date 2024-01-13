@@ -18,11 +18,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseRouting();
+// app.UseRouting();
 
-app.UseAuthentication();
+// app.UseAuthentication();
 
-app.UseAuthorization();
+// app.UseAuthorization();
 
 // routing with minimal api
 // app.MapGet("/hello", () =>
